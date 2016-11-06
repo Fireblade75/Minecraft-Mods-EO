@@ -1,0 +1,18 @@
+tile.ironchest:IRON.name=Fera kesto
+tile.ironchest:GOLD.name=Ora kesto
+tile.ironchest:DIAMOND.name=Diamanta kesto
+tile.ironchest:COPPER.name=Kupra kesto
+tile.ironchest:SILVER.name=Arĝenta kesto
+tile.ironchest:CRYSTAL.name=Kristala kesto
+tile.ironchest:OBSIDIAN.name=Obsidiana kesto
+tile.ironchest:DIRTCHEST9000.name=Terkesto 9000!
+
+item.ironchest:IRONGOLD.name=Fera al ora kesto altgradigo
+item.ironchest:GOLDDIAMOND.name=Ora al diamanta kesto altgradigo
+item.ironchest:COPPERSILVER.name=Kupra al arĝenta kesto altgradigo
+item.ironchest:SILVERGOLD.name=Arĝenta al ora kesto altgradigo
+item.ironchest:COPPERIRON.name=Kupra al fera kesto altgradigo
+item.ironchest:DIAMONDCRYSTAL.name=Diamanta al kristala kesto altgradigo
+item.ironchest:WOODIRON.name=Ligna al fera kesto altgradigo
+item.ironchest:WOODCOPPER.name=Ligna al kupra kesto altgradigo
+item.ironchest:DIAMONDOBSIDIAN.name=Diamanta al obsidiana kesto altgradigo
